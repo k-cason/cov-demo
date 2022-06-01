@@ -39,3 +39,4 @@ jobs:
           #security-gate-view-name: "High and Medium Severity"
           # Required for GitHub
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          #3
